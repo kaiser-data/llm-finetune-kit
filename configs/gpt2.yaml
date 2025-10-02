@@ -1,0 +1,60 @@
+# GPT-2 Training Configuration
+# Optimized for quick demos on Colab T4 GPU
+
+model:
+  name: "gpt2"
+  params: "124M"
+  use_lora: true
+  lora_r: 8
+  lora_alpha: 16
+  lora_dropout: 0.1
+  quantization: false  # Not needed for small model
+
+training:
+  # Quick demo (5 min on T4)
+  max_steps: 100
+  num_epochs: 3
+  batch_size: 4
+  gradient_accumulation_steps: 1
+
+  # Learning
+  learning_rate: 2e-4
+  warmup_steps: 50
+  lr_scheduler_type: "cosine"
+  weight_decay: 0.01
+
+  # Optimization
+  fp16: true
+  gradient_checkpointing: false  # Not needed for GPT-2
+  optim: "adamw_torch"
+  max_grad_norm: 1.0
+
+  # Logging & Saving
+  logging_steps: 10
+  save_steps: 100
+  save_total_limit: 2
+  output_dir: "./outputs/gpt2"
+
+  # Hardware
+  min_vram_gb: 4
+  recommended_vram_gb: 8
+
+dataset:
+  max_length: 512
+  template: |
+    ### Instruction:
+    {prompt}
+
+    ### Response:
+    {response}
+
+estimated_time:
+  t4_gpu: "5 minutes"
+  v100_gpu: "3 minutes"
+  a100_gpu: "2 minutes"
+
+use_cases:
+  - "Quick prototyping"
+  - "Learning fine-tuning"
+  - "Text generation demos"
+  - "Chatbot assistants"

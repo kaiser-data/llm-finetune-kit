@@ -1,0 +1,28 @@
+# LLM Finetune Kit - Requirements
+# Framework version requirements as specified
+
+# Core ML Frameworks
+transformers>=4.45.0
+torch>=2.5.0
+accelerate>=1.0.0
+peft>=0.13.0
+trl>=0.11.0
+
+# Quantization & Optimization
+bitsandbytes>=0.44.0
+
+# Data Handling
+datasets>=3.0.0
+pandas>=2.0.0
+
+# Web UI
+gradio>=4.0.0
+
+# Utilities
+pyyaml>=6.0
+tqdm>=4.65.0
+numpy>=1.24.0
+
+# Optional dependencies for advanced features
+# sentencepiece>=0.1.99  # For Llama tokenization
+# protobuf>=3.20.0       # For Llama models
