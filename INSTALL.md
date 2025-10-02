@@ -12,7 +12,7 @@ pip install llm-finetune-kit
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/llm-finetune-kit.git
+git clone https://github.com/kaiser-data/llm-finetune-kit.git
 cd llm-finetune-kit
 
 # Install in development mode
@@ -73,7 +73,7 @@ Visit [PyTorch.org](https://pytorch.org/get-started/locally/) for other configur
 
 ```bash
 # From source
-git clone https://github.com/yourusername/llm-finetune-kit.git
+git clone https://github.com/kaiser-data/llm-finetune-kit.git
 cd llm-finetune-kit
 pip install -e .
 
@@ -97,7 +97,7 @@ python -c "from llm_finetune_kit import QuickTrainer; print('✅ All imports wor
 
 ```python
 # In a Colab notebook
-!pip install git+https://github.com/yourusername/llm-finetune-kit.git
+!pip install git+https://github.com/kaiser-data/llm-finetune-kit.git
 
 # Verify GPU
 import torch
@@ -169,7 +169,7 @@ For contributing to the project:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/llm-finetune-kit.git
+git clone https://github.com/kaiser-data/llm-finetune-kit.git
 cd llm-finetune-kit
 
 # Install with development dependencies
@@ -231,21 +231,21 @@ pip uninstall llm-finetune-kit
 
 ```python
 # Free T4 GPU
-!pip install git+https://github.com/yourusername/llm-finetune-kit.git
+!pip install git+https://github.com/kaiser-data/llm-finetune-kit.git
 ```
 
 ### Kaggle Notebooks
 
 ```python
 # Free P100 or T4 GPU
-!pip install git+https://github.com/yourusername/llm-finetune-kit.git
+!pip install git+https://github.com/kaiser-data/llm-finetune-kit.git
 ```
 
 ### AWS SageMaker
 
 ```python
 # Configure instance with GPU
-!pip install git+https://github.com/yourusername/llm-finetune-kit.git
+!pip install git+https://github.com/kaiser-data/llm-finetune-kit.git
 ```
 
 ## Next Steps
@@ -260,6 +260,6 @@ After installation:
 ## Support
 
 - 📧 Email: support@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/llm-finetune-kit/issues)
+- 🐛 Issues: [GitHub Issues](https://github.com/kaiser-data/llm-finetune-kit/issues)
 - 💬 Discord: [Join Server](#)
 - 📚 Docs: [Full Documentation](#)

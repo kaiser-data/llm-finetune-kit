@@ -5,8 +5,8 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![GPU](https://img.shields.io/badge/GPU-12GB%20min-green)](https://colab.research.google.com/)
 [![Colab](https://img.shields.io/badge/Colab-Free%20Tier-orange)](https://colab.research.google.com/)
-[![Time](https://img.shields.io/badge/Demo-5%20min-blue)](https://github.com/yourusername/llm-finetune-kit)
-[![Models](https://img.shields.io/badge/models-up%20to%207B-purple)](https://github.com/yourusername/llm-finetune-kit)
+[![Time](https://img.shields.io/badge/Demo-5%20min-blue)](https://github.com/kaiser-data/llm-finetune-kit)
+[![Models](https://img.shields.io/badge/models-up%20to%207B-purple)](https://github.com/kaiser-data/llm-finetune-kit)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A beginner-friendly, production-quality Python library for fine-tuning small-to-medium LLMs. Perfect for learning, prototyping, and portfolio demonstrations.
@@ -33,7 +33,7 @@ pip install llm-finetune-kit
 Or install from source:
 
 ```bash
-git clone https://github.com/yourusername/llm-finetune-kit.git
+git clone https://github.com/kaiser-data/llm-finetune-kit.git
 cd llm-finetune-kit
 pip install -e .
 ```
@@ -410,7 +410,7 @@ Built on top of:
 
 - 📧 Email: support@example.com
 - 💬 Discord: [Join our community](#)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/llm-finetune-kit/issues)
+- 🐛 Issues: [GitHub Issues](https://github.com/kaiser-data/llm-finetune-kit/issues)
 - 📚 Documentation: [Full Docs](#)
 
 ## ⭐ Star History
