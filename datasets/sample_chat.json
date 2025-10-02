@@ -1,0 +1,82 @@
+[
+  {
+    "prompt": "How do I reset my password?",
+    "response": "To reset your password:\n1. Click 'Forgot Password' on the login page\n2. Enter your email address\n3. Check your email for a reset link\n4. Click the link and create a new password\n5. Log in with your new password"
+  },
+  {
+    "prompt": "What are your business hours?",
+    "response": "We're open Monday through Friday, 9:00 AM to 5:00 PM EST. We're closed on weekends and major holidays. For urgent issues outside business hours, please email support@example.com."
+  },
+  {
+    "prompt": "How can I track my order?",
+    "response": "You can track your order by:\n1. Logging into your account\n2. Going to 'Order History'\n3. Clicking on your order number\n4. Viewing real-time tracking information\n\nYou should also have received a tracking number via email when your order shipped."
+  },
+  {
+    "prompt": "Do you offer refunds?",
+    "response": "Yes! We offer a 30-day money-back guarantee. If you're not satisfied with your purchase, you can request a full refund within 30 days of delivery. Items must be returned in their original condition."
+  },
+  {
+    "prompt": "How do I update my account information?",
+    "response": "To update your account information:\n1. Log into your account\n2. Click on 'Account Settings'\n3. Update your details (email, phone, address)\n4. Click 'Save Changes'\n\nNote: You may need to verify your email if you change it."
+  },
+  {
+    "prompt": "What payment methods do you accept?",
+    "response": "We accept:\n- Credit cards (Visa, Mastercard, American Express)\n- Debit cards\n- PayPal\n- Apple Pay\n- Google Pay\n\nAll payments are processed securely through our encrypted payment gateway."
+  },
+  {
+    "prompt": "How long does shipping take?",
+    "response": "Shipping times vary by location:\n- Standard: 5-7 business days\n- Express: 2-3 business days\n- Overnight: Next business day\n\nYou'll receive a tracking number once your order ships."
+  },
+  {
+    "prompt": "Can I cancel my order?",
+    "response": "Yes, you can cancel your order if it hasn't shipped yet. To cancel:\n1. Log into your account\n2. Go to 'Order History'\n3. Find your order\n4. Click 'Cancel Order'\n\nIf your order has already shipped, you'll need to wait for delivery and then process a return."
+  },
+  {
+    "prompt": "Do you ship internationally?",
+    "response": "Yes, we ship to most countries worldwide! International shipping times vary by destination, typically 7-21 business days. Customs fees and import duties may apply depending on your country."
+  },
+  {
+    "prompt": "How do I contact customer support?",
+    "response": "You can reach our customer support team:\n- Email: support@example.com\n- Phone: 1-800-123-4567 (M-F, 9AM-5PM EST)\n- Live chat: Available on our website during business hours\n- Help center: help.example.com\n\nWe aim to respond to all inquiries within 24 hours."
+  },
+  {
+    "prompt": "What's your return policy?",
+    "response": "Our return policy:\n- 30-day return window from delivery date\n- Items must be unused and in original packaging\n- Free return shipping for defective items\n- Return shipping costs apply for change of mind\n- Refunds processed within 5-7 business days\n\nTo start a return, visit your account and select 'Return Item'."
+  },
+  {
+    "prompt": "Do you offer gift wrapping?",
+    "response": "Yes! We offer complimentary gift wrapping at checkout. Just select the 'Gift Wrap' option and add a personalized message. Gift receipts (without prices) are included automatically."
+  },
+  {
+    "prompt": "How do I apply a discount code?",
+    "response": "To apply a discount code:\n1. Add items to your cart\n2. Proceed to checkout\n3. Look for the 'Discount Code' or 'Promo Code' field\n4. Enter your code\n5. Click 'Apply'\n\nThe discount will be reflected in your order total before you complete payment."
+  },
+  {
+    "prompt": "Is my personal information secure?",
+    "response": "Yes, your security is our priority. We use:\n- 256-bit SSL encryption for all data transmission\n- PCI DSS compliant payment processing\n- Secure data centers\n- Regular security audits\n\nWe never store your full credit card information and never share your data with third parties."
+  },
+  {
+    "prompt": "Can I change my shipping address?",
+    "response": "If your order hasn't shipped yet, you can change the shipping address by contacting customer support immediately. If it has already shipped, you may need to contact the carrier to request a delivery address change."
+  },
+  {
+    "prompt": "Do you have a loyalty program?",
+    "response": "Yes! Our rewards program offers:\n- 1 point per dollar spent\n- Exclusive member discounts\n- Early access to sales\n- Birthday rewards\n- Free shipping on orders over $50\n\nSign up for free at checkout or in your account settings."
+  },
+  {
+    "prompt": "What if I receive a damaged item?",
+    "response": "If you receive a damaged item:\n1. Take photos of the damage\n2. Contact customer support within 48 hours\n3. Provide your order number and photos\n4. We'll send a replacement or full refund\n\nDamaged items are covered by our guarantee, and return shipping is free."
+  },
+  {
+    "prompt": "How do I unsubscribe from emails?",
+    "response": "To unsubscribe from our emails:\n1. Click the 'Unsubscribe' link at the bottom of any email\n2. Or log into your account and go to 'Email Preferences'\n3. Uncheck the email types you don't want to receive\n\nNote: You'll still receive important transactional emails about your orders."
+  },
+  {
+    "prompt": "Do you offer price matching?",
+    "response": "Yes, we offer price matching! If you find a lower price from a competitor within 7 days of your purchase, contact us with proof of the lower price and we'll refund the difference plus an additional 10% of the difference."
+  },
+  {
+    "prompt": "Can I save items for later?",
+    "response": "Yes! You can create a wishlist to save items for later:\n1. Click the heart icon on any product\n2. Items are added to your wishlist\n3. Access your wishlist from your account menu\n4. Move items to cart when ready to purchase\n\nYour wishlist is saved even if you log out."
+  }
+]
